@@ -1,2 +1,8 @@
 #Ignore deep-learning-from-scratch directory
 deep-learning-from-scratch/
+
+.DS_Store
+*~
+*.gz
+*.pyc
+__pycache__/
