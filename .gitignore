@@ -6,3 +6,5 @@ deep-learning-from-scratch/
 *.gz
 *.pyc
 __pycache__/
+
+dataset/
